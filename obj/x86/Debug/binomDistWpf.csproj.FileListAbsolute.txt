@@ -1,0 +1,13 @@
+H:\Rage\p_languages\CS\binomDistWpf\binomDistWpf\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Rage\p_languages\CS\binomDistWpf\binomDistWpf\obj\x86\Debug\MainWindow.baml
+H:\Rage\p_languages\CS\binomDistWpf\binomDistWpf\obj\x86\Debug\MainWindow.g.cs
+H:\Rage\p_languages\CS\binomDistWpf\binomDistWpf\obj\x86\Debug\App.g.cs
+H:\Rage\p_languages\CS\binomDistWpf\binomDistWpf\obj\x86\Debug\binomDistWpf_MarkupCompile.cache
+H:\Rage\p_languages\CS\binomDistWpf\binomDistWpf\obj\x86\Debug\binomDistWpf.g.resources
+H:\Rage\p_languages\CS\binomDistWpf\binomDistWpf\obj\x86\Debug\binomDistWpf.Properties.Resources.resources
+H:\Rage\p_languages\CS\binomDistWpf\binomDistWpf\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Rage\p_languages\CS\binomDistWpf\binomDistWpf\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Rage\p_languages\CS\binomDistWpf\binomDistWpf\bin\Debug\binomDistWpf.exe
+H:\Rage\p_languages\CS\binomDistWpf\binomDistWpf\bin\Debug\binomDistWpf.pdb
+H:\Rage\p_languages\CS\binomDistWpf\binomDistWpf\obj\x86\Debug\binomDistWpf.exe
+H:\Rage\p_languages\CS\binomDistWpf\binomDistWpf\obj\x86\Debug\binomDistWpf.pdb
