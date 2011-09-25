@@ -2,7 +2,9 @@ name: Binomial Distribution
 author: Ray John E. Alovera
 
 This is a program that calculates the binomial distribution.
-It uses the WPF so it won't run on other systems except Windows.
+
+It uses the WPF so it won't run on other systems except Windows. 
+Sorry. \(T~T )>
 
 Made this for my homework in my Statistics class.
 I used the equation our teacher gave us.
